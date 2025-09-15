@@ -1,1 +1,1 @@
-# k8s-api-tester
+# api-tester
